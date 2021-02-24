@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Louay</h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width='40' align="left"/><h2>Hey there! I'm Louay</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Louay -->
 
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
