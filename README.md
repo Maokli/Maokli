@@ -41,10 +41,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://louayoudi.netlify.app/"><img src="https://img.shields.io/badge/-louayoudi.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.louay.codes/"><img src="https://img.shields.io/badge/-louay.codes-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/louay-oudi-8598b3190/"><img src="https://img.shields.io/badge/-Louay%20Oudi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:louayinfo07@gmail.com"><img src="https://img.shields.io/badge/-louayinfo07@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@oudi_sw-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/louay.codes/"><img src="https://img.shields.io/badge/-@louay.codes-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/louay.oudi/"><img src="https://img.shields.io/badge/-@louay oudi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.behance.net/haverdestlnk"><img src="https://img.shields.io/badge/-@HaverdestLnk-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
